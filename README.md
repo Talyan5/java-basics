@@ -1,12 +1,12 @@
-#Basic Project
+#Java Basics Project
 
-*Simple Project
+*Simple Java Basic Concepts* 
 
 **Java 7**
 
 * Java Application
 * Junit
 
-Simple Java Application. 
+Java Application wich focuses on Java Fundamentals.
 
-[Anatoliy Starinskiy](http://ebay.com)
+[Anatoliy Starinskiy](https://github.com/Talyan5)
