@@ -5,7 +5,7 @@
 	<artifactId>java-basics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Javav Basics Project</name>
-	<description>Project wich focuses on Java Fundamentals</description>
+	<description>Project which focuses on Java Fundamentals</description>
 
 	<dependencies>
 		<dependency>
